@@ -10,6 +10,10 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+#### Frameworks & Libraries
+
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+
 #### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flate&logo=git&logoColor=white)
