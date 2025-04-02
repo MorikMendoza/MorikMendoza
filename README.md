@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## Tech Stack
+### Tech Stack
 
-### Languages
+#### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -10,7 +10,7 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Tools & Platforms
+#### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flate&logo=git&logoColor=white)
 
